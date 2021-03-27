@@ -32,8 +32,7 @@
 
 **✅ Link와 favicon**
 
+
 ![스크린샷 2021-03-27 오후 7.34.52](/Users/ksnotebook/Downloads/스크린샷 2021-03-27 오후 7.34.52.png)
-
-
 
 
