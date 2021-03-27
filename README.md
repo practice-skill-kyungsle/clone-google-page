@@ -196,7 +196,7 @@ display를 block요소를 주고, margin을 auto를 주면 알아서 **''중앙 
 
 이 것이 무슨 말인지 모른다면 **MDN사이트**를 참고한다😄
 
-
+<br><br>
 
 **✅ position**
 
